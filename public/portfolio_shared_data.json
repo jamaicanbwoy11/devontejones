@@ -1,18 +1,13 @@
 {
     "basic_info": {
-        "name": "Dorota Gil",
+        "name": "Devonte Jones",
         "title": "Front-end Developer",
         "description": "Zajmuję się projektowaniem i programowaniem aplikacji oraz stron internetowych. Na back-endzie korzystam głównie z .NET Core. Oprócz zbierania dalszego doświadczenia w Angular i C#, rozwijam poza pracą swoje front-endowe zainteresowania także w React.",
         "social": [
           {
             "name": "github",
-            "url": "https://github.com/Dorota1997",
+            "url": "https://github.com/jamaicanbwoy11",
             "class": "fab fa-github"
-          },
-          {
-            "name": "instagram",
-            "url": "https://www.instagram.com/dorota__gil/",
-            "class": "fab fa-instagram"
           }
         ],
         "image": "myProfile.jpg"
@@ -30,8 +25,8 @@
             "level": "95"
           },
           {
-            "name": "Angular",
-            "class": "devicon-angularjs-plain",
+            "name": "React",
+            "class": "devicon-react-original-wordmark",
             "level": "80"
           },
           {
@@ -55,13 +50,18 @@
             "level": "85"
           },
           {
-            "name": "C#",
-            "class": "devicon-csharp-plain",
+            "name": "Angular",
+            "class": "devicon-angularjs-plain",
             "level": "65"
           },
           {
-            "name": "MySql",
-            "class": "devicon-mysql-plain",
+            "name": "Vue",
+            "class": "devicon-vuejs-plain",
+            "level": "60"
+          },
+          {
+            "name": "MongoDB",
+            "class": "devicon-mongodb-plain-wordmark",
             "level": "60"
           }
       ]
