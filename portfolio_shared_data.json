@@ -1,0 +1,69 @@
+{
+    "basic_info": {
+        "name": "Devonte Jones",
+        "title": "Front-end Developer",
+        "description": "Zajmuję się projektowaniem i programowaniem aplikacji oraz stron internetowych. Na back-endzie korzystam głównie z .NET Core. Oprócz zbierania dalszego doświadczenia w Angular i C#, rozwijam poza pracą swoje front-endowe zainteresowania także w React.",
+        "social": [
+          {
+            "name": "github",
+            "url": "https://github.com/jamaicanbwoy11",
+            "class": "fab fa-github"
+          }
+        ],
+        "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+          {
+            "name": "HTML 5",
+            "class": "devicon-html5-plain",
+            "level": "95"
+          },
+          {
+            "name": "CSS 3",
+            "class": "devicon-css3-plain",
+            "level": "95"
+          },
+          {
+            "name": "React",
+            "class": "devicon-react-original-wordmark",
+            "level": "80"
+          },
+          {
+            "name": "TypeScript",
+            "class": "devicon-typescript-plain",
+            "level": "90"
+          },
+          {
+            "name": "JavaScript",
+            "class": "devicon-javascript-plain",
+            "level": "70"
+          },
+          {
+            "name": "Sass",
+            "class": "devicon-sass-original",
+            "level": "75"
+          },
+          {
+            "name": "Bootstrap",
+            "class": "devicon-bootstrap-plain",
+            "level": "85"
+          },
+          {
+            "name": "Angular",
+            "class": "devicon-angularjs-plain",
+            "level": "65"
+          },
+          {
+            "name": "Vue",
+            "class": "devicon-vuejs-plain",
+            "level": "60"
+          },
+          {
+            "name": "MongoDB",
+            "class": "devicon-mongodb-plain-wordmark",
+            "level": "60"
+          }
+      ]
+    }
+  }

@@ -1,0 +1,161 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "I'm a New York City web developer who focuses on writing clean, elegant and efficient code. I have a passion for creating, and I find happiness in being a better me today than the me yesterday. ",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "SoccerZone",
+        "startDate": "2021",
+        "description": "The app let users add items and view shopping cart, Pick a Soccer Player and view their jerseys and soccer cleats. Users can edit and view checkout",
+        "images": [
+            "images/portfolio/portfolio/header.png",
+            "images/portfolio/portfolio/about.png",
+            "images/portfolio/portfolio/projects.png",
+            "images/portfolio/portfolio/skills.png",
+            "images/portfolio/portfolio/experience.png"
+        ],
+        "url": "https://jamaicanbwoy11.github.io/soccer/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Mr. Kebab",
+        "startDate": "2021",
+        "description": "A Food e-Commerce Website for ordering foods. This app let users add items to cart",
+        "images": [
+            "images/portfolio/cars/cars1.PNG",
+            "images/portfolio/cars/cars2.PNG"
+        ],
+        "url": "https://jamaicanbwoy11.github.io/MrKebab/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "KLCC Properties",
+        "startDate": "2021",
+        "description": "This app let users look for property to buy and rent. Users can use a Mortgage Calculator",
+        "images": [
+            "images/portfolio/covid/covid1.PNG",
+            "images/portfolio/covid/covid2.PNG"
+        ],
+        "url": "https://jamaicanbwoy11.github.io/klcc/",
+        "technologies": [
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-mongodb-plain-wordmark",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node"
+          }
+        ]
+      },
+      {
+        "title": "NYC Dealership",
+        "startDate": "2021",
+        "description": "This app let users look for vehicles to buy in NYC.",
+        "images": [
+            "images/portfolio/anim/anim1.PNG",
+            "images/portfolio/anim/anim2.PNG",
+            "images/portfolio/anim/anim3.PNG"
+        ],
+        "url": "https://jamaicanbwoy11.github.io/NycDealership/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Jamaican Food",
+        "startDate": "2021",
+        "description": "This app let users view and download Jamaican Recipes. Users can create, edit and download.",
+        "images": [
+            "images/portfolio/hrmaster/hr1.PNG",
+            "images/portfolio/hrmaster/hr2.PNG"
+        ],
+        "url": "https://jamaicanbwoy11.github.io/jamfood/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "React Portfolio",
+        "startDate": "2021",
+        "description": "React portfolio showing my project skills and experince",
+        "images": [
+            "images/portfolio/beer/beer1.png",
+            "images/portfolio/beer/beer2.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-sass-original",
+            "name": "Sass"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      }
+     
+        
+      
+    
+   
+     
+      
+    ]
+  }
